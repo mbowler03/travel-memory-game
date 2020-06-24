@@ -45,7 +45,7 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">Travel Memory Game</h1>
           <p className="App-intro">
-            Try not to click the same image twice...Click an image to begin!
+            Try not to click the same image twice...Click any image to begin!
             </p>
         </header>
         <Score total={this.state.score}
