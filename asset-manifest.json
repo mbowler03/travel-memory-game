@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/travel-memory-game/static/css/main.caff8d27.chunk.css",
-    "main.js": "/travel-memory-game/static/js/main.b56843d4.chunk.js",
-    "main.js.map": "/travel-memory-game/static/js/main.b56843d4.chunk.js.map",
+    "main.js": "/travel-memory-game/static/js/main.6ba5e59b.chunk.js",
+    "main.js.map": "/travel-memory-game/static/js/main.6ba5e59b.chunk.js.map",
     "runtime-main.js": "/travel-memory-game/static/js/runtime-main.a25778df.js",
     "runtime-main.js.map": "/travel-memory-game/static/js/runtime-main.a25778df.js.map",
     "static/js/2.0e3fa562.chunk.js": "/travel-memory-game/static/js/2.0e3fa562.chunk.js",
     "static/js/2.0e3fa562.chunk.js.map": "/travel-memory-game/static/js/2.0e3fa562.chunk.js.map",
     "index.html": "/travel-memory-game/index.html",
-    "precache-manifest.67051ed7d69bd585eb6c2a25f4bcdd94.js": "/travel-memory-game/precache-manifest.67051ed7d69bd585eb6c2a25f4bcdd94.js",
+    "precache-manifest.5a90cd1a43e9428c9f9d5efa7609199f.js": "/travel-memory-game/precache-manifest.5a90cd1a43e9428c9f9d5efa7609199f.js",
     "service-worker.js": "/travel-memory-game/service-worker.js",
     "static/css/main.caff8d27.chunk.css.map": "/travel-memory-game/static/css/main.caff8d27.chunk.css.map",
     "static/js/2.0e3fa562.chunk.js.LICENSE.txt": "/travel-memory-game/static/js/2.0e3fa562.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a25778df.js",
     "static/js/2.0e3fa562.chunk.js",
     "static/css/main.caff8d27.chunk.css",
-    "static/js/main.b56843d4.chunk.js"
+    "static/js/main.6ba5e59b.chunk.js"
   ]
 }

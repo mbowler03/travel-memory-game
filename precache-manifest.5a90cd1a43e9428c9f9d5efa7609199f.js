@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "281d384de58fe2e6eb19ce13b6de28ad",
+    "revision": "7ea6f3ec1198ecc433a7e1c57e4b13af",
     "url": "/travel-memory-game/index.html"
   },
   {
-    "revision": "ff3ce28464c790da5625",
+    "revision": "414e20781d43f50744be",
     "url": "/travel-memory-game/static/css/main.caff8d27.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travel-memory-game/static/js/2.0e3fa562.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff3ce28464c790da5625",
-    "url": "/travel-memory-game/static/js/main.b56843d4.chunk.js"
+    "revision": "414e20781d43f50744be",
+    "url": "/travel-memory-game/static/js/main.6ba5e59b.chunk.js"
   },
   {
     "revision": "61bf344ebc9593a6518b",
