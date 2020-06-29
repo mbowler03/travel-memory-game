@@ -1,51 +1,51 @@
 [
 {
   "id": 1,
-  "image": "./public/trav1.jpg"
+  "image": "/travel-memory-game/trav1.jpg"
   
 },
 {
   "id": 2,
-  "image": "./public/trav2.jpg"
+  "image": "/travel-memory-game/trav2.jpg"
 },
 {
   "id": 3,
-  "image": "./public/trav3.jpg"
+  "image": "/travel-memory-game/trav3.jpg"
 },
 {
   "id": 4,
-  "image": "./public/trav4.jpg"
+  "image": "/travel-memory-game/trav4.jpg"
 },
 {
   "id": 5,
-  "image": "./public/trav5.jpg"
+  "image": "/travel-memory-game/trav5.jpg"
 },
 {
   "id": 6,
-  "image": "./public/trav6.jpg"
+  "image": "/travel-memory-game/trav6.jpg"
 },
 {
   "id": 7,
-  "image": "./public/trav7.jpg"
+  "image": "/travel-memory-game/trav7.jpg"
 },
 {
   "id": 8,
-  "image": "./public/trav8.jpg"
+  "image": "/travel-memory-game/trav8.jpg"
 },
 {
   "id": 9,
-  "image": "./public/trav9.jpg"
+  "image": "/travel-memory-game/trav9.jpg"
 },
 {
   "id": 10,
-  "image": "./public/trav10.jpg"
+  "image": "/travel-memory-game/trav10.jpg"
 },
 {
   "id": 11,
-  "image": "./public/trav11.jpg"
+  "image": "/travel-memory-game/trav11.jpg"
 },
 {
   "id": 12,
-  "image": "./public/trav12.jpg"
+  "image": "/travel-memory-game/trav12.jpg"
 }
 ] 
